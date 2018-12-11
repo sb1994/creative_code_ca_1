@@ -10,9 +10,7 @@ function preload() {
 function setup() {
   createCanvas(800, 800);
   noStroke();
-  //logs the whole object to the console
   console.log(img);
-
 }
 
 function draw() {
